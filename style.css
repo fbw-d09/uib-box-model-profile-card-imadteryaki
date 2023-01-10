@@ -1,0 +1,43 @@
+.container
+{
+    font-size: 10px;
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+    background-color: black;
+    
+}
+
+.container img {
+    width: 60em;
+    height: 40em;
+    border: 5px solid white ;
+    margin-top:0.5em;
+    object-fit: cover;
+}
+
+.box {
+width: 125px;
+height: 30px;
+background-color: white;
+opacity: 0.8;
+border: 5px solid rgb(40, 119, 3)  ;
+z-index: 1;
+position: relative;
+font-size: 25px;
+border-radius: 30px;
+display: inline-block;
+text-align: left;
+padding-left: 15px;
+
+}
+#rick{
+   right: 5em;
+   bottom: 11.5em ;
+}
+
+#sanchez {
+    right: 11.2em ;
+    bottom: 9em; 
+
+}
