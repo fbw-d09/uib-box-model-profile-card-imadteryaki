@@ -2,41 +2,42 @@
 {
     font-size: 10px;
     width: 100vw;
-    height: 40vh;
+    height: 100vh;
     text-align: center;
-    margin-top:20%;
     background-color: black;
     
 }
 
 .container img {
-    width: 35%;
-    height: 90%;
+    width: 60em;
+    height: 40em;
     border: 5px solid white ;
     margin-top:0.5em;
+    object-fit: cover;
 }
 
 .box {
-width: 100px;
+width: 125px;
 height: 30px;
 background-color: white;
 opacity: 0.8;
-border: 5px solid rgb(0, 255, 179)  ;
+border: 5px solid rgb(40, 119, 3)  ;
 z-index: 1;
 position: relative;
-text-align: center;
 font-size: 25px;
 border-radius: 30px;
 display: inline-block;
+text-align: left;
+padding-left: 15px;
 
 }
 #rick{
-   right: 5%;
-   bottom: 80%;
+   right: 5em;
+   bottom: 11.5em ;
 }
 
 #sanchez {
-    right: 10.8%;
-    bottom: 65%;
+    right: 11.2em ;
+    bottom: 9em; 
 
 }
